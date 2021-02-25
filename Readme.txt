@@ -1,0 +1,7 @@
+-Uncompressed GIF to 24-Bit BMP convertor
+-Test cases are given in this folder only as Uncompressed gifs are harder to find
+-convertor.c contains our main function 
+-tools.c contains functions other than main
+-main_header.h contains all function prototypes and global structures.
+-This program works for only uncompressed gifs, it will give segmentation fault if tried on other formats.
+-Output.BMP will be created after successfull execution of program.
